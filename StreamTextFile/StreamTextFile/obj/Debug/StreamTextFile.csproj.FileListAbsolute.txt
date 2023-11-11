@@ -1,0 +1,13 @@
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\bin\Debug\StreamTextFile.exe.config
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\bin\Debug\StreamTextFile.exe
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\bin\Debug\StreamTextFile.pdb
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.csproj.AssemblyReference.cache
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.FrmFileName.resources
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.FrmLab1.resources
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.FrmRegistration.resources
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.Properties.Resources.resources
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.csproj.GenerateResource.cache
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.csproj.CoreCompileInputs.cache
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.exe
+C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.pdb
