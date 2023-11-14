@@ -11,3 +11,17 @@ C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFi
 C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.csproj.CoreCompileInputs.cache
 C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.exe
 C:\Users\63912\source\repos\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.pdb
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\bin\Debug\StreamTextFile.exe.config
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\bin\Debug\StreamTextFile.exe
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\bin\Debug\StreamTextFile.pdb
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.csproj.AssemblyReference.cache
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.FrmFileName.resources
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.FrmLab1.resources
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.FrmRegistration.resources
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.FrmStudentRecord.resources
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.Properties.Resources.resources
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.csproj.GenerateResource.cache
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.csproj.CoreCompileInputs.cache
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.exe
+C:\Users\allea\source\repos\StreamFileText\StreamTextFile\StreamTextFile\obj\Debug\StreamTextFile.pdb

@@ -75,5 +75,13 @@ namespace StreamTextFile
                 }
             }
         }
+
+        private void btnRecord_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FrmStudentRecord frmStudentRecord = new FrmStudentRecord();
+            frmStudentRecord.ShowDialog();
+            this.Close();
+        }
     }
 }

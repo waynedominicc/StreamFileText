@@ -16,7 +16,7 @@ namespace StreamTextFile
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmLab1());
+            Application.Run(new FrmRegistration());
         }
     }
 }
